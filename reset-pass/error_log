@@ -1,0 +1,6 @@
+[11-Oct-2019 15:00:24 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/spultzry/public_html/tasks/reset-pass/index.php on line 25
+[11-Oct-2019 15:00:24 Asia/Karachi] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/spultzry/public_html/tasks/reset-pass/index.php on line 53
+[11-Oct-2019 15:00:24 Asia/Karachi] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spultzry/public_html/tasks/reset-pass/index.php on line 53
+[11-Oct-2019 15:05:54 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/spultzry/public_html/tasks/reset-pass/index.php on line 25
+[11-Oct-2019 15:05:54 Asia/Karachi] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/spultzry/public_html/tasks/reset-pass/index.php on line 53
+[11-Oct-2019 15:05:54 Asia/Karachi] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spultzry/public_html/tasks/reset-pass/index.php on line 53

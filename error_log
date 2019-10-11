@@ -1,0 +1,15 @@
+[11-Oct-2019 05:23:19 America/New_York] PHP Notice:  Undefined index: name in /home/spultzry/public_html/tasks/view.php on line 35
+[11-Oct-2019 05:23:19 America/New_York] PHP Notice:  Undefined index: age in /home/spultzry/public_html/tasks/view.php on line 36
+[11-Oct-2019 05:23:53 America/New_York] PHP Notice:  Undefined index: name in /home/spultzry/public_html/tasks/view.php on line 35
+[11-Oct-2019 05:23:53 America/New_York] PHP Notice:  Undefined index: age in /home/spultzry/public_html/tasks/view.php on line 36
+[11-Oct-2019 05:25:20 America/New_York] PHP Notice:  Undefined variable: age in /home/spultzry/public_html/tasks/insert.php on line 12
+[11-Oct-2019 05:25:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/spultzry/public_html/tasks/insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/spultzry/public_html/tasks/insert.php on line 14
+[11-Oct-2019 05:26:26 America/New_York] PHP Notice:  Undefined variable: name in /home/spultzry/public_html/tasks/insert.php on line 12
+[11-Oct-2019 05:26:26 America/New_York] PHP Notice:  Undefined variable: age in /home/spultzry/public_html/tasks/insert.php on line 12
+[11-Oct-2019 05:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/spultzry/public_html/tasks/insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/spultzry/public_html/tasks/insert.php on line 14
